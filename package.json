@@ -23,6 +23,6 @@
     "oauth" : "*",
     "request" : "*",
     "dateformat" : "*",
-    "simple_foursquare" : "*"
+    "simple_foursquare" : "1.1.0"
   }
 }
